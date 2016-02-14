@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+logs/*.txt
+input/*.csv
+input/downloads/*.zip
+submissions/*.csv
