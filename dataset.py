@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import datetime
-import pickle
+import cPickle as pickle
 
 import numpy as np
 import pandas as pd
